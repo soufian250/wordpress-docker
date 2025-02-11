@@ -1,0 +1,172 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "title": "The7 FSE Life Coach",
+    "settings": {
+        "typography": {
+            "defaultFontSizes": false,
+            "fluid": true,
+            "fontFamilies": [
+                {
+                    "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+                    "name": "System Font",
+                    "slug": "system-font"
+                },
+                {
+                    "fontFace": [
+                        {
+                            "fontFamily": "Sora",
+                            "fontStyle": "normal",
+                            "fontWeight": "100",
+                            "src": "https://staging.the7.io/fse-life-coach/wp-content/uploads/sites/135/fonts/xMQOuFFYT72X5wkB_18qmnndmSdSn3-PIwNhBti0.woff2"
+                        },
+                        {
+                            "fontFamily": "Sora",
+                            "fontStyle": "normal",
+                            "fontWeight": "200",
+                            "src": "https://staging.the7.io/fse-life-coach/wp-content/uploads/sites/135/fonts/xMQOuFFYT72X5wkB_18qmnndmSfSnn-PIwNhBti0.woff2"
+                        },
+                        {
+                            "fontFamily": "Sora",
+                            "fontStyle": "normal",
+                            "fontWeight": "300",
+                            "src": "https://staging.the7.io/fse-life-coach/wp-content/uploads/sites/135/fonts/xMQOuFFYT72X5wkB_18qmnndmScMnn-PIwNhBti0.woff2"
+                        },
+                        {
+                            "fontFamily": "Sora",
+                            "fontStyle": "normal",
+                            "fontWeight": "400",
+                            "src": "https://staging.the7.io/fse-life-coach/wp-content/uploads/sites/135/fonts/xMQOuFFYT72X5wkB_18qmnndmSdSnn-PIwNhBti0.woff2"
+                        },
+                        {
+                            "fontFamily": "Sora",
+                            "fontStyle": "normal",
+                            "fontWeight": "500",
+                            "src": "https://staging.the7.io/fse-life-coach/wp-content/uploads/sites/135/fonts/xMQOuFFYT72X5wkB_18qmnndmSdgnn-PIwNhBti0.woff2"
+                        },
+                        {
+                            "fontFamily": "Sora",
+                            "fontStyle": "normal",
+                            "fontWeight": "600",
+                            "src": "https://staging.the7.io/fse-life-coach/wp-content/uploads/sites/135/fonts/xMQOuFFYT72X5wkB_18qmnndmSeMmX-PIwNhBti0.woff2"
+                        },
+                        {
+                            "fontFamily": "Sora",
+                            "fontStyle": "normal",
+                            "fontWeight": "700",
+                            "src": "https://staging.the7.io/fse-life-coach/wp-content/uploads/sites/135/fonts/xMQOuFFYT72X5wkB_18qmnndmSe1mX-PIwNhBti0.woff2"
+                        },
+                        {
+                            "fontFamily": "Sora",
+                            "fontStyle": "normal",
+                            "fontWeight": "800",
+                            "src": "https://staging.the7.io/fse-life-coach/wp-content/uploads/sites/135/fonts/xMQOuFFYT72X5wkB_18qmnndmSfSmX-PIwNhBti0.woff2"
+                        }
+                    ],
+                    "fontFamily": "Sora, sans-serif",
+                    "name": "Sora",
+                    "slug": "sora"
+                }
+            ],
+            "fontSizes": [
+                {
+                    "fluid": false,
+                    "name": "XS",
+                    "size": "0.84rem",
+                    "slug": "x-small"
+                },
+                {
+                    "fluid": false,
+                    "name": "S",
+                    "size": "0.96rem",
+                    "slug": "small"
+                },
+                {
+                    "fluid": false,
+                    "name": "M (Base)",
+                    "size": "1.06rem",
+                    "slug": "medium"
+                },
+                {
+                    "fluid": {
+                        "max": "1.22rem",
+                        "min": "1.19rem"
+                    },
+                    "name": "L",
+                    "size": "1.19rem",
+                    "slug": "large"
+                },
+                {
+                    "fluid": {
+                        "max": "1.38rem",
+                        "min": "1.19rem"
+                    },
+                    "name": "XL",
+                    "size": "1.3rem",
+                    "slug": "x-large"
+                },
+                {
+                    "fluid": false,
+                    "name": "Title 6",
+                    "size": "1.3rem",
+                    "slug": "2-x-large"
+                },
+                {
+                    "fluid": {
+                        "max": "1.44rem",
+                        "min": "1.38rem"
+                    },
+                    "name": "Title 5",
+                    "size": "1.44rem",
+                    "slug": "3-x-large"
+                },
+                {
+                    "fluid": {
+                        "max": "1.69rem",
+                        "min": "1.56rem"
+                    },
+                    "name": "Title 4",
+                    "size": "1.69rem",
+                    "slug": "4-x-large"
+                },
+                {
+                    "fluid": {
+                        "max": "2.13rem",
+                        "min": "1.75rem"
+                    },
+                    "name": "Title 3",
+                    "size": "2.13rem",
+                    "slug": "5-x-large"
+                },
+                {
+                    "fluid": {
+                        "max": "2.63rem",
+                        "min": "2.06rem"
+                    },
+                    "name": "Title 2",
+                    "size": "2.63rem",
+                    "slug": "6-x-large"
+                },
+                {
+                    "fluid": {
+                        "max": "3.25rem",
+                        "min": "2.13rem"
+                    },
+                    "name": "Title 1",
+                    "size": "3.4rem",
+                    "slug": "7-x-large"
+                }
+            ],
+            "writingMode": true
+        }
+    },
+    "styles": {
+        "typography": {
+            "fontFamily": "var(--wp--preset--font-family--sora)",
+            "fontSize": "var(--wp--preset--font-size--medium)",
+            "fontStyle": "normal",
+            "fontWeight": "400",
+            "lineHeight": "1.7"
+        }
+    }
+}

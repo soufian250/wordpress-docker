@@ -1,0 +1,160 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "title": "The7 FSE Life Coach",
+    "settings": {
+        "color": {
+            "defaultPalette": false,
+            "gradients": [
+                {
+                    "gradient": "linear-gradient(180deg,rgb(244,245,246) 0%,rgba(255,255,255,0) 100%)",
+                    "name": "Gradient 1",
+                    "slug": "gradient-1"
+                },
+                {
+                    "gradient": "linear-gradient(180deg,rgba(255,255,255,0) 0%,rgb(244,245,246) 100%)",
+                    "name": "Gradient 2",
+                    "slug": "gradient-2"
+                },
+                {
+                    "gradient": "linear-gradient(180deg, rgb(244, 245, 246) 50%, rgb(255, 255, 255) 50%)",
+                    "name": "Gradient 3",
+                    "slug": "gradient-3"
+                },
+                {
+                    "gradient": "linear-gradient(180deg, rgb(254, 254, 254) 50%, rgb(244, 245, 246) 50%)",
+                    "name": "Gradient 4",
+                    "slug": "gradient-4"
+                },
+                {
+                    "gradient": "linear-gradient(180deg,rgb(222,247,250) 0%,rgba(255,255,255,0) 100%)",
+                    "name": "Gradient 5",
+                    "slug": "gradient-5"
+                },
+                {
+                    "gradient": "linear-gradient(180deg,rgba(255,255,255,0) 0%,rgb(222,247,250) 96%)",
+                    "name": "Gradient 6",
+                    "slug": "gradient-6"
+                }
+            ],
+            "palette": [
+                {
+                    "color": "#ffffff",
+                    "name": "Background 1",
+                    "slug": "background-1"
+                },
+                {
+                    "color": "#f4f5f6",
+                    "name": "Background 2",
+                    "slug": "background-2"
+                },
+                {
+                    "color": "#02132e21",
+                    "name": "Borders",
+                    "slug": "separators"
+                },
+                {
+                    "color": "#002028",
+                    "name": "Headings",
+                    "slug": "headings"
+                },
+                {
+                    "color": "#2f4f56",
+                    "name": "Content 1",
+                    "slug": "content-1"
+                },
+                {
+                    "color": "#364d548c",
+                    "name": "Content 2",
+                    "slug": "content-2"
+                },
+                {
+                    "color": "#003341",
+                    "name": "Contrast Background 1",
+                    "slug": "contrast-background"
+                },
+                {
+                    "color": "#004051",
+                    "name": "Contrast Background 2",
+                    "slug": "contrast-background-2"
+                },
+                {
+                    "color": "#ffffff1c",
+                    "name": "Contrast Borders",
+                    "slug": "contrast-separators"
+                },
+                {
+                    "color": "#feffff",
+                    "name": "Contrast Headings",
+                    "slug": "contrast-headings"
+                },
+                {
+                    "color": "#e6f8fac2",
+                    "name": "Contrast Content 1",
+                    "slug": "contrast-content"
+                },
+                {
+                    "color": "#e6f8fa70",
+                    "name": "Contrast Content 2",
+                    "slug": "contrast-content-2"
+                },
+                {
+                    "color": "#1493a6",
+                    "name": "Accent 1 Dark",
+                    "slug": "accent-1-dark"
+                },
+                {
+                    "color": "#17a6bc",
+                    "name": "Accent 1",
+                    "slug": "accent-1"
+                },
+                {
+                    "color": "#bceaf0",
+                    "name": "Accent 1 Light",
+                    "slug": "accent-1-light"
+                },
+                {
+                    "color": "#ecfafc",
+                    "name": "Accent 1 Background",
+                    "slug": "accent-1-transparent-1"
+                },
+                {
+                    "color": "#00b2bf24",
+                    "name": "Accent 1 Transparent",
+                    "slug": "accent-1-transparent-2"
+                },
+                {
+                    "color": "#28d19e",
+                    "name": "Accent 2 Dark",
+                    "slug": "accent-2-dark"
+                },
+                {
+                    "color": "#58ddb0",
+                    "name": "Accent 2",
+                    "slug": "accent-2"
+                },
+                {
+                    "color": "#b9ede1",
+                    "name": "Accent 2 Light",
+                    "slug": "accent-2-light"
+                },
+                {
+                    "color": "#edfbf6",
+                    "name": "Accent 2 Background",
+                    "slug": "accent-2-transparent-1"
+                },
+                {
+                    "color": "#21b99124",
+                    "name": "Accent 2 Transparent",
+                    "slug": "accent-2-transparent-2"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "color": {
+            "background": "#ffffff",
+            "text": "var(--wp--preset--color--content-1)"
+        }
+    }
+}
